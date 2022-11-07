@@ -6,7 +6,7 @@ Dear friends, family & footballers, welcome to the internationally renowned Worl
 
 The tournament starts on 20th November 2022. A match schedule is available at [World Cup 2022 - BBC Football](https://www.bbc.com/sport/football/world-cup/schedule). A wall chart with TV listings is available at [FourFourTwo - Wall Chart](http://cdn.mos.cms.futurecdn.net/emvLGLK2Ra9Ci2d8aVknq/wallchart.pdf).
 
-For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
+For the geeks and suspicious members among you, the code for this World Cup Sweepstake is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
 
 Good luck!
 
@@ -62,5 +62,3 @@ A random seed was selected based on the start date (in DDMMYYYY format) of the W
 |                       30 | Qatar          | A       |                   50 | Tom R     |
 |                       31 | Saudi Arabia   | C       |                   51 | Bec L     |
 |                       32 | Ghana          | H       |                   61 | Ben B     |
-
-
