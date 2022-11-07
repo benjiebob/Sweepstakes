@@ -14,19 +14,19 @@ Good luck!
 
 The Sweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the *upper* category and one from the *lower* category.
 
-For compelling (and from the perspective of this sweepstake, entirely useless) team tips, I recommend the [following Guardian article](https://www.theguardian.com/football/2022/jun/15/world-cup-2022-power-rankings-final-32-qatar). Note the intriguing differences in between the Guardian & FIFA World Cup rankings below. Wow, isn't football fun!
+For compelling (and from the perspective of this sweepstake, entirely useless) team tips, I recommend the following [Guardian article](https://www.theguardian.com/football/2022/jun/15/world-cup-2022-power-rankings-final-32-qatar). Note the intriguing differences between the Guardian & FIFA World Cup rankings below. Wow, isn't football fun!
 
 ## Prizes
 
-Prizes will be awarded to the player with:
-- The *winning* World Cup team, and
+Prizes will be awarded to players with:
+- The *winning* World Cup team, and/or
 - The *best performing* team from the bottom 8 according to FIFA World Cup Ranking. In particular, the players eligible for this prize are those assigned to: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
 
-The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (which comprises at least one doctor) anticipate that the prizes will have a strong degree of personalization.
+The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (which comprises at least one doctor) anticipate that the prizes will be strongly personalized.
 
 ## The Draw
 
-A random seed was selected based on the start date (in DDMMYYYY format) of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
+A random seed was selected according to the World Cup's start date: **20112022** (in DDMMYYYY format). The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
 
 |   FIFA World Cup Ranking | Team           | Group   |   FIFA World Ranking | Player    |
 |-------------------------:|:---------------|:--------|---------------------:|:----------|
