@@ -2,23 +2,23 @@
 
 ## Introduction
 
-Welcome, dear friends, family & footballers to the internationally renowned World Cup Sweepstake. This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
+Dear friends, family & footballers, welcome to the internationally renowned World Cup Sweepstake! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
-For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which actually computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
+For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
 
 Good luck!
 
 ## How it Works
 
-The Wweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the Upper category and one from the lower category.
+The Sweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the *upper* category and one from the *lower* category.
 
 ## Prizes
 
-Prizes will be awarded to:
-- The player with the *winning* World Cup team, and
-- The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
+Prizes will be awarded to the player with:
+- The *winning* World Cup team, and
+- The *best performing* team from the bottom 8 according to FIFA World Cup Ranking. In particular, the players eligible for this prize are those assigned to: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
 
-The precise nature of the prizes will be revealed towards the end of the tournament. However, the esteemed organizing committee (of which there are at least two doctors) anticipate that the prizes will have a strong degree of personalization.
+The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (of which there are at least two doctors) anticipate that the prizes will have a strong degree of personalization.
 
 ## The Draw
 
