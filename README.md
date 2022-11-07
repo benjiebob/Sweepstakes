@@ -1,5 +1,7 @@
 # World Cup 2022 - Qatar
 
+<img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png](https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg)" alt="World Cup 22 - Qatar" title="World Cup 22 - Qatar">
+
 ## Introduction
 
 Dear friends, family & footballers, welcome to the internationally renowned World Cup Sweepstake! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
