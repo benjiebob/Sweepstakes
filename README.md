@@ -24,38 +24,39 @@ The precise nature of the prizes will be revealed towards the end of the tournam
 
 A random seed was selected based on the start date of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
 
-|   FIFA World Cup Ranking | Team           | Group   |   FIFA World Ranking | Player Initials   |
-|-------------------------:|:---------------|:--------|---------------------:|:---------|
-|                        1 | Brazil         | G       |                    1 | BC-J     |
-|                        2 | Belgium        | F       |                    2 | TR       |
-|                        3 | Argentina      | C       |                    3 | JB       |
-|                        4 | France         | D       |                    4 | BB       |
-|                        5 | England        | B       |                    5 | Grandma  |
-|                        6 | Spain          | E       |                    7 | HG-O     |
-|                        7 | Netherlands    | A       |                    8 | NB       |
-|                        8 | Portugal       | H       |                    9 | BL       |
-|                        9 | Denmark        | D       |                   10 | Nana     |
-|                       10 | Germany        | E       |                   11 | EP       |
-|                       11 | Croatia        | F       |                   12 | JS       |
-|                       12 | Mexico         | C       |                   13 | PL       |
-|                       13 | Uruguay        | H       |                   14 | Grandpa  |
-|                       14 | Switzerland    | G       |                   15 | SB       |
-|                       15 | USA            | B       |                   16 | ML       |
-|                       16 | Senegal        | A       |                   18 | AB       |
-|                       17 | Wales          | B       |                   19 | HG-O     |
-|                       18 | IR Iran        | B       |                   20 | BC-J     |
-|                       19 | Serbia         | G       |                   21 | Grandpa  |
-|                       20 | Morocco        | F       |                   22 | SB       |
-|                       21 | Japan          | E       |                   24 | ML       |
-|                       22 | Poland         | C       |                   26 | NB       |
-|                       23 | Korea Republic | H       |                   28 | JS       |
-|                       24 | Tunisia        | D       |                   30 | PL       |
-|                       25 | Costa Rica     | E       |                   31 | JB       |
-|                       26 | Australia      | D       |                   38 | AB       |
-|                       27 | Canada         | F       |                   41 | Grandma  |
-|                       28 | Cameroon       | G       |                   43 | EP       |
-|                       29 | Ecuador        | A       |                   44 | Nana     |
-|                       30 | Qatar          | A       |                   50 | TR       |
-|                       31 | Saudi Arabia   | C       |                   51 | BL       |
-|                       32 | Ghana          | H       |                   61 | BB       |
+|   FIFA World Cup Ranking | Team           | Group   |   FIFA World Ranking | Player    |
+|-------------------------:|:---------------|:--------|---------------------:|:----------|
+|                        1 | Brazil         | G       |                    1 | Ben CJ    |
+|                        2 | Belgium        | F       |                    2 | Tom R     |
+|                        3 | Argentina      | C       |                    3 | Jackie B  |
+|                        4 | France         | D       |                    4 | Ben B     |
+|                        5 | England        | B       |                    5 | Grandma   |
+|                        6 | Spain          | E       |                    7 | Hannah GO |
+|                        7 | Netherlands    | A       |                    8 | Nick B    |
+|                        8 | Portugal       | H       |                    9 | Bec L     |
+|                        9 | Denmark        | D       |                   10 | Nana      |
+|                       10 | Germany        | E       |                   11 | Emily P   |
+|                       11 | Croatia        | F       |                   12 | Josh S    |
+|                       12 | Mexico         | C       |                   13 | Pip L     |
+|                       13 | Uruguay        | H       |                   14 | Grandpa   |
+|                       14 | Switzerland    | G       |                   15 | Sam B     |
+|                       15 | USA            | B       |                   16 | Mike L    |
+|                       16 | Senegal        | A       |                   18 | Adam B    |
+|                       17 | Wales          | B       |                   19 | Hannah GO |
+|                       18 | IR Iran        | B       |                   20 | Ben CJ    |
+|                       19 | Serbia         | G       |                   21 | Grandpa   |
+|                       20 | Morocco        | F       |                   22 | Sam B     |
+|                       21 | Japan          | E       |                   24 | Mike L    |
+|                       22 | Poland         | C       |                   26 | Nick B    |
+|                       23 | Korea Republic | H       |                   28 | Josh S    |
+|                       24 | Tunisia        | D       |                   30 | Pip L     |
+|                       25 | Costa Rica     | E       |                   31 | Jackie B  |
+|                       26 | Australia      | D       |                   38 | Adam B    |
+|                       27 | Canada         | F       |                   41 | Grandma   |
+|                       28 | Cameroon       | G       |                   43 | Emily P   |
+|                       29 | Ecuador        | A       |                   44 | Nana      |
+|                       30 | Qatar          | A       |                   50 | Tom R     |
+|                       31 | Saudi Arabia   | C       |                   51 | Bec L     |
+|                       32 | Ghana          | H       |                   61 | Ben B     |
+
 
