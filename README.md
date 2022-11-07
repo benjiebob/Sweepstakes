@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome, dear friends, family & footballers to the internationally renowned World Cup Sweepstake. This README explains how the sweepstake works, presents the draw and gives vaguely describes prizes to be won.
+Welcome, dear friends, family & footballers to the internationally renowned World Cup Sweepstake. This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
 For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which actually computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
 
