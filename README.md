@@ -16,7 +16,7 @@ Sweepstake is free to enter. The 32 World Cup teams are sorted according to thei
 
 Prizes will be awarded to:
 - The player with the *winning* World Cup team, and
-- The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia, Ghana.*
+- The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
 
 A grand prize pot has been determined. However, the precise nature of the prize will be personalized to the winning players.
 
