@@ -24,7 +24,7 @@ The precise nature of the prizes will be revealed towards the end of the tournam
 
 ## The Draw
 
-A random seed was selected based on the start date (in UK date format) of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
+A random seed was selected based on the start date (in DDMMYYYY date format) of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
 
 |   FIFA World Cup Ranking | Team           | Group   |   FIFA World Ranking | Player    |
 |-------------------------:|:---------------|:--------|---------------------:|:----------|
