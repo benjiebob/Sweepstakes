@@ -18,5 +18,4 @@ teams_ranking_df = teams_ranking_df.sort_values("rank").reset_index()
 
 teams_ranking_df.to_csv("worldcup22_teams_ranking.csv")
 
-
 print ("Written team/ranking data")
