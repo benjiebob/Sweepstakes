@@ -4,7 +4,7 @@
 
 Dear friends, family & footballers, welcome to the internationally renowned World Cup Sweepstake! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
-The tournament starts on 20th November 2022. A nice schedule of games is available at [World Cup 2022 - BBC Football](https://www.bbc.com/sport/football/world-cup/schedule). A wall-chart with TV listings is available at [FourFourTwo - Wall Chart](http://cdn.mos.cms.futurecdn.net/emvLGLK2Ra9Ci2d8aVknq/wallchart.pdf).
+The tournament starts on 20th November 2022. A schedule of games is available at [World Cup 2022 - BBC Football](https://www.bbc.com/sport/football/world-cup/schedule). A wall chart with TV listings is available at [FourFourTwo - Wall Chart](http://cdn.mos.cms.futurecdn.net/emvLGLK2Ra9Ci2d8aVknq/wallchart.pdf).
 
 For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
 
