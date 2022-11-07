@@ -12,6 +12,14 @@ Good luck!
 
 Sweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the Upper category and one from the lower category. 
 
+## Prizes
+
+Prizes will be awarded to:
+- The player with the *winning* World Cup team, and
+- The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia, Ghana.*
+
+A grand prize pot has been determined. However, the precise nature of the prize will be personalized to the winning players.
+
 ## The Draw
 
 A random seed was selected based on the start date of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
@@ -50,11 +58,3 @@ A random seed was selected based on the start date of the World Cup: **20112022*
 |                       30 | Qatar          | A       |                   50 | Tom Roddick            |
 |                       31 | Saudi Arabia   | C       |                   51 | Bec Liggins            |
 |                       32 | Ghana          | H       |                   61 | Ben Biggs              |
-
-## Prizes
-
-Prizes will be awarded to:
-- The player with the *winning* World Cup team, and
-- The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia, Ghana.*
-
-A grand prize pot has been determined. However, the precise nature of the prize will be personalized to the winning players.
