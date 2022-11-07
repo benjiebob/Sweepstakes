@@ -10,7 +10,7 @@ Good luck!
 
 ## How it Works
 
-Sweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the Upper category and one from the lower category. 
+The Wweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the Upper category and one from the lower category.
 
 ## Prizes
 
@@ -18,7 +18,7 @@ Prizes will be awarded to:
 - The player with the *winning* World Cup team, and
 - The player with the *best performing* team ranked in the bottom 8 according to FIFA World Cup Ranking. The teams eligible for this prize are: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
 
-A grand prize pot has been determined. However, the precise nature of the prize will be personalized to the winning players.
+The precise nature of the prizes will be revealed towards the end of the tournament. However, the esteemed organizing committee (of which there are at least two doctors) anticipate that the prizes will have a strong degree of personalization.
 
 ## The Draw
 
