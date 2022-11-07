@@ -64,3 +64,8 @@ A random seed was selected according to the World Cup's start date: **20112022**
 |                       30 | Qatar          | A       |                   50 | Tom R     |
 |                       31 | Saudi Arabia   | C       |                   51 | Bec L     |
 |                       32 | Ghana          | H       |                   61 | Ben B     |
+
+## Acknowledgements
+- FIFA World Rankings data 1992-2022 from [Kaggle](https://www.kaggle.com/datasets/cashncarry/fifaworldranking?resource=download)
+- FIFA World Cup 2022 teams/groups from the [official FIFA website](https://www.fifa.com/fifaplus/en/articles/qatar-2022-all-qualified-teams-groups-dates-match-schedule-tickets-more)
+- World Cup banner downloaded under trial account from [here](https://www.dreamstime.com/vinnytsia-ukraine-february-fifa-world-cup-qatar-banner-fifa-world-cup-qatar-banner-image241473272)
