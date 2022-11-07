@@ -4,7 +4,7 @@
 
 Welcome, dear friends, family & footballers to the internationally renowned World Cup Sweepstake. This README explains how the sweepstake works, presents the draw and gives vaguely describes prizes to be won.
 
-For the geeks among you, the code is available. Data munging code is [here]() and a simple-to-run Jupyter Notebook which actually computes the draw is [here]().
+For the geeks among you, the code is available. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which actually computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
 
 Good luck!
 
@@ -14,7 +14,7 @@ Sweepstake is free to enter. The 32 World Cup teams are sorted according to thei
 
 ## The Draw
 
-A random seed was selected based on the start date of the World Cup: **20112022**. The results of the [draw]() are as follows:
+A random seed was selected based on the start date of the World Cup: **20112022**. The results of the [draw](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb) are as follows:
 
 |   FIFA World Cup Ranking | Team           | Group   |   FIFA World Ranking | Player                 |
 |-------------------------:|:---------------|:--------|---------------------:|:-----------------------|
