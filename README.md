@@ -21,7 +21,7 @@ For compelling (and from the perspective of this sweepstake, entirely useless) t
 ## Prizes
 
 Prizes will be awarded to players with:
-- The *winning* World Cup team, and/or
+- The *winning* World Cup team, and/or,
 - The *best performing* team from the bottom 8 according to FIFA World Cup Ranking. In particular, the players eligible for this prize are those assigned to: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*. In order, this will be decided by: tournament progression, head-to-head match-ups, goal difference and goals for. 
 
 The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (which comprises at least one doctor) anticipate that the prizes will be strongly personalized.
