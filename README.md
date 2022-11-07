@@ -1,6 +1,6 @@
 # World Cup 2022 - Qatar
 
-<img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png](https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg)" alt="World Cup 22 - Qatar" title="World Cup 22 - Qatar">
+![World Cup 2022 - Qatar](https://thumbs.dreamstime.com/b/vinnytsia-ukraine-february-fifa-world-cup-qatar-banner-fifa-world-cup-qatar-banner-241473272.jpg)
 
 ## Introduction
 
