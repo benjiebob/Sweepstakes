@@ -12,8 +12,6 @@ Good luck!
 
 The Sweepstake is free to enter. The 32 World Cup teams are sorted according to their FIFA World Ranking and divided into two categories: upper and lower. Each player is randomly assigned one team from the *upper* category and one from the *lower* category.
 
-## Team Tips
-
 For compelling (and from the perspective of this sweepstake, entirely useless) team tips, I recommend the [following Guardian article](https://www.theguardian.com/football/2022/jun/15/world-cup-2022-power-rankings-final-32-qatar). Note intriguing differences between the Guardian's team and the FIFA World Cup Ranking below. See... isn't football fun!
 
 ## Prizes
