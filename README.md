@@ -22,7 +22,7 @@ Prizes will be awarded to the player with:
 - The *winning* World Cup team, and
 - The *best performing* team from the bottom 8 according to FIFA World Cup Ranking. In particular, the players eligible for this prize are those assigned to: *Costa Rica, Australia, Canada, Cameroon, Ecuador, Qatar, Saudi Arabia and Ghana*.
 
-The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (of which there are at least two doctors) anticipate that the prizes will have a strong degree of personalization.
+The precise nature of the prizes will be revealed towards the end of the tournament. It is worth noting that the esteemed organizing committee (which comprises at least one doctor) anticipate that the prizes will have a strong degree of personalization.
 
 ## The Draw
 
