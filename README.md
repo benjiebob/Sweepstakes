@@ -6,9 +6,11 @@
 
 Dear friends, family & footballers, welcome to the internationally renowned World Cup Sweepstake! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
+To quickly view your draw, you can view the [Streamlit demo](http://3.95.147.145:8501/).
+
 The tournament starts on 20th November 2022. A match schedule is available at [World Cup 2022 - BBC Football](https://www.bbc.com/sport/football/world-cup/schedule). A wall chart with TV listings is available at [FourFourTwo - Wall Chart](http://cdn.mos.cms.futurecdn.net/emvLGLK2Ra9Ci2d8aVknq/wallchart.pdf).
 
-For the geeks among you, the code for this World Cup Sweepstake is available in this repository. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb).
+For the geeks among you, the code for this World Cup Sweepstake is available in this repository. Data munging code is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/extract_rankings.py) and a simple-to-run Jupyter Notebook which computes the draw is [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/run_worldcup_draw.ipynb). The streamlit demo code is available [here](https://github.com/benjiebob/WorldCup22_Sweepstake/blob/main/streamlit_demo.py).
 
 Good luck!
 
