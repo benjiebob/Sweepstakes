@@ -20,10 +20,10 @@ selected_player = st.selectbox("Players", options = ["ALL"] + players)
 
 if selected_player == "ALL":
     st.write("Upper Half")
-    st.dataframe(teams_players[:16])
+    st.table(teams_players[:16])
 
     st.write("Lower Half")
-    st.dataframe(teams_players[16:])
+    st.table(teams_players[16:])
 else:
     teams = teams_players[teams_players["Player"] == selected_player]
 
