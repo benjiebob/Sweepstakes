@@ -18,6 +18,17 @@ st.title("World Cup Qatar 2022 - The Sweepstake")
 players = sorted(list(set(teams_players['Player'].to_numpy().tolist())))
 selected_player = st.selectbox("Players", options = ["ALL"] + players)
 
+# CSS to inject contained in a string
+hide_table_row_index = """
+            <style>
+            thead tr th:first-child {display:none}
+            tbody th {display:none}
+            </style>
+            """
+
+# Inject CSS with Markdown
+st.markdown(hide_table_row_index, unsafe_allow_html=True)
+
 if selected_player == "ALL":
     st.write("Upper Half")
     st.table(teams_players[:16])
