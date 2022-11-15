@@ -10,22 +10,25 @@ def load_teams_players():
     return teams_players
 
 teams_players  = load_teams_players()
-teams_players = teams_players.iloc[:, 1:]
+teams_players = teams_players.iloc[:, 1:][["Player", "Team", "FIFA World Cup Ranking", "Group", "FIFA World Ranking"]]
+
 
 st.title("World Cup Qatar 2022 - The Sweepstake")
 
 players = sorted(list(set(teams_players['Player'].to_numpy().tolist())))
 selected_player = st.selectbox("Players", options = ["ALL"] + players)
 
-upper_half = teams_players[:16]
-lower_half = teams_players[16:]
+if selected_player == "ALL":
+    st.write("Upper Half")
+    st.dataframe(teams_players[:16])
 
-if selected_player != "ALL":
-    upper_half = upper_half[upper_half["Player"] == selected_player]
-    lower_half = lower_half[lower_half["Player"] == selected_player]
+    st.write("Lower Half")
+    st.dataframe(teams_players[16:])
+else:
+    teams = teams_players[teams_players["Player"] == selected_player]
 
-st.write("Upper Half")
-st.dataframe(upper_half)
+    st.write(f"Your World Cup Qatar teams are: ")
+    st.table(teams)
+    
 
-st.write("Lower Half")
-st.dataframe(lower_half)
+
