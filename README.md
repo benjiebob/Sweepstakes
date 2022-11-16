@@ -6,7 +6,7 @@
 
 Dear friends, family & footballers, welcome to the internationally renowned World Cup Sweepstake! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
-To quickly view your teams, view the [Streamlit demo](http://worldcup.benbiggs.co.uk/).
+To quickly view your teams, there's a handy [Streamlit webpage](http://worldcup.benbiggs.co.uk/).
 
 The tournament starts on 20th November 2022. A match schedule is available at [World Cup 2022 - BBC Football](https://www.bbc.com/sport/football/world-cup/schedule). A wall chart with TV listings is available at [FourFourTwo - Wall Chart](http://cdn.mos.cms.futurecdn.net/emvLGLK2Ra9Ci2d8aVknq/wallchart.pdf).
 
