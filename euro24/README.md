@@ -7,7 +7,7 @@
 
 ## Script
 
-- See [the script](euro24_run_euro24_draw.ipynb) that 
+- See [the script](run_euro24_draw.ipynb) that 
 generated the draw. 
 
 ```python
