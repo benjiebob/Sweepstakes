@@ -2,8 +2,10 @@
 
 Dear friends, family & footballers, welcome to the Sweepstake repository! This README explains how the sweepstake works, presents the draw and vaguely describes prizes to be won.
 
-- [Current! Euro Germany 2024](euro24/README.md)
-- [World Cup Qatar 2022](worldcup22/README.md) - Winner: Jackie with Italy!
+- [IN PROGRESS! Euro Germany 2024](euro24/README.md)
+
+Past competitions:
+- [World Cup Qatar 2022](worldcup22/README.md) - Winner: Jackie with Argentina!
 
 ## How it Works
 
