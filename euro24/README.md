@@ -1,8 +1,11 @@
 # EURO Germany 2024 - The Sweepstake
 
-![EURO Germany 2024](euro_wallpaper.jpeg)
+<!-- ![EURO Germany 2024]() -->
+<div style="text-align: center;">
+    <img src="euro_wallpaper.jpeg" width="512">
+</div>
 
-## The Draw
+## Script
 
 - See [the script](euro24_run_euro24_draw.ipynb) that 
 generated the draw. 
