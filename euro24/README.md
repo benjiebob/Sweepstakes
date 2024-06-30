@@ -18,7 +18,7 @@ np.random.seed(14062024) # start date of euro 2024 in DDMMYYYY format
 
 | Player    | Team_1                   | Team_2                |
 | :-------- | :----------------------- | :-------------------- |
-| Adam B    | France (D), rank=1       | Hungary (A), rank=14  |
+| Adam B    | France (D), rank=1       | ~Hungary (A), rank=14~  |
 | Arjun S   | Spain (B), rank=6        | Turkey (F), rank=19   |
 | Bec L     | Switzerland (A), rank=10 | Scotland (A), rank=18 |
 | Ben B     | Ukraine (E), rank=12     | Albania (B), rank=23  |
