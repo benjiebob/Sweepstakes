@@ -25,10 +25,10 @@ np.random.seed(14062024) # start date of euro 2024 in DDMMYYYY format
 | Emily P   | ~Denmark (C), rank=11~     | ~Serbia (C), rank=16~   |
 | Grandma B | ~Italy (B), rank=7~        | ~Czechia (F), rank=17~  |
 | Grandpa B | ~Croatia (B), rank=8~      | ~Slovakia (E), rank=21~ |
-| Jackie B  | Belgium (E), rank=2      | ~Poland (D), rank=15~   |
-| Mike L    | Netherlands (D), rank=5  | Slovenia (C), rank=22 |
-| Nick B    | England (C), rank=3      | Romania (E), rank=20  |
-| Pip L     | Germany (A), rank=9      | Austria (D), rank=13  |
+| Jackie B  | ~Belgium (E), rank=2~      | ~Poland (D), rank=15~   |
+| Mike L    | Netherlands (D), rank=5  | ~Slovenia (C), rank=22~ |
+| Nick B    | England (C), rank=3      | ~Romania (E), rank=20~  |
+| Pip L     | Germany (A), rank=9      | ~Austria (D), rank=13~  |
 | Sam B     | Portugal (F), rank=4     | ~Georgia (F), rank=24~  |
 
 
