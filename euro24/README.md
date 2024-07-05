@@ -31,5 +31,10 @@ np.random.seed(14062024) # start date of euro 2024 in DDMMYYYY format
 | Pip L     | Germany (A), rank=9      | ~Austria (D), rank=13~  |
 | Sam B     | Portugal (F), rank=4     | ~Georgia (F), rank=24~  |
 
+## Quarter Final Match Ups
 
+- Spain (Arjun S) v Germany (Pip L) [5pm, 5th July]
+- France (Adam B) v Portugal (Sam B) [8pm, 5th July]
+- England (Nick B) v Switzerland (Bec L) [5pm, 6th July]
+- Netherlands (Mike L) v Turkey (Arjun S) [8pm, 6th July]
 
