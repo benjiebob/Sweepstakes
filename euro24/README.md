@@ -40,9 +40,9 @@ np.random.seed(14062024) # start date of euro 2024 in DDMMYYYY format
 
 ## Semi Final Match Ups
 
-- Spain (Arjun S) v France (Adam B) [8pm, 9th July]
+- Spain (Arjun S) v ~France (Adam B)~ [8pm, 9th July]
 - Netherlands (Mike L) v England (Nick B) [8pm, 10th July]
 
 ## Final Match Up
 
-- [8pm, 14th July]
+- Spain (Arjun S) v ??? [8pm, 14th July]
